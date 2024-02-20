@@ -38,4 +38,10 @@ project-repositories:
       - "boot-3.2.x"
       - "ai"
       - "openai"
-  
+  - name: "flyway"
+    description: "FlywayDB Migration Tool"
+    url: "https://github.com/dashaun-project-catalog/flywaydb"
+    tags:
+      - "java-21"
+      - "boot-3.2.x"
+      - "flywaydb"
