@@ -38,10 +38,9 @@ project-repositories:
       - "boot-3.2.x"
       - "ai"
       - "openai"
-  - name: "flyway"
-    description: "FlywayDB Migration Tool"
-    url: "https://github.com/dashaun-project-catalog/flywaydb"
+  - name: "helloworld"
+    description: "Simple Hello, World RESTful web service."
+    url: "https://github.com/dashaun-project-catalog/helloworld"
     tags:
       - "java-21"
       - "boot-3.2.x"
-      - "flywaydb"
