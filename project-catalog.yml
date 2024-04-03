@@ -30,7 +30,16 @@ project-repositories:
       - "java-21"
       - "boot-3.2.x"
       - "modulith"
-  - name: "ai"
+  - name: "llama2-chat"
+    description: "Chat with llama2 model via Ollama"
+    url: "https://github.com/dashaun-project-catalog/llama2-chat"
+    tags:
+      - "java-21"
+      - "boot-3.2.x"
+      - "ai"
+      - "ollama"
+      - "llama2"
+  - name: "openai"
     description: "Hello, World Open AI Application"
     url: "https://github.com/dashaun-project-catalog/ai-openai-helloworld"
     tags:
