@@ -32,6 +32,13 @@ project-repositories:
       - "boot-3.2.x"
       - "batch"
       - "h2"
+  - name: "chat-ui"
+    description: "Chat UI"
+    url: "https://github.com/dashaun-project-catalog/chat-ui"
+    tags:
+      - "java-21"
+      - "boot-3.2.x"
+      - "vaadin"
   - name: "graphql"
     description: "Spring GraphQL"
     url: "https://github.com/dashaun-project-catalog/rpt-spring-graphql"
