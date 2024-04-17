@@ -8,9 +8,9 @@ project-repositories:
       - "boot-3.2.x"
       - "rest"
       - "web"
-  - name: "jpa"
-    description: "Learn how to work with JPA data persistence using Spring Data JPA."
-    url: "https://github.com/dashaun-project-catalog/rpt-spring-data-jpa"
+  - name: "jpa-h2"
+    description: "Spring Data JPA with H2"
+    url: "https://github.com/dashaun-project-catalog/jpa-h2"
     tags:
       - "java-21"
       - "boot-3.2.x"
