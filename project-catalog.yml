@@ -1,4 +1,4 @@
-project-repositories:
+repositories:
   - name: "restdocs"
     description: "Document RESTful services using Spring REST Docs."
     url: "https://github.com/dashaun-project-catalog/simple-restdocs"
