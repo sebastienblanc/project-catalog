@@ -1,4 +1,3 @@
----
 project-repositories:
   - name: "restdocs"
     description: "Document RESTful services using Spring REST Docs."
